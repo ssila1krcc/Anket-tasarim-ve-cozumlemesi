@@ -1,2 +1,2 @@
 # Anket tasarim ve cozumlemesi
-Uzaktan çalışmanın verimlilik üzerindeki etkisinin araştırılması raporu
+Uzaktan calismanin verimlilik uzerindeki etkisinin arastirilmasi raporu
